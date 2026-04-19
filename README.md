@@ -1,7 +1,7 @@
 # Laboratorio 1 - Análisis de Algoritmos
 
 **Estudiante:** Fabian Hincapié Castañeda  
-**Institución:** Instituto Tecnológico Metropolitano - ITM  
+**Institución:** Institución Universitaria - ITM  
 **Fecha:** Abril 2026
 
 ## Contenido
